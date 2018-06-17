@@ -77,6 +77,10 @@ There are plenty of new upcoming features that could be done like:
 1. Marking a to-do as complete.
 2. Fetching to-dos with week etc.
 3. Making the data visible via rendering of an html page.
+4. Kubernetes secrets could be used to pass the passwords to the apps.
+5. Connection pools should be implemented to improve DB access.
+6. Tests should be written to check the webserver functionalities.
+7. The mariadb container should have persistent storage by using to a PersistentVolume in Kubernetes.
 
 
 
